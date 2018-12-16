@@ -1,0 +1,3 @@
+git init - initializes the CURRENT FOLDER AS A GIT REPOSITORY
+
+git status - current status of the folder
